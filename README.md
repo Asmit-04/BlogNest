@@ -32,18 +32,9 @@
 
 ## 📦 Deployment
 
-You can deploy the **frontend** on platforms like **Netlify** or **Vercel**.
-
-For the **backend**, you can use platforms such as **Render**, **Railway**, or a **VPS**/**cloud service** (like **AWS**, **DigitalOcean**, or **Heroku**) that supports **Node.js** and allows external **MySQL** database connections.
-
-Make sure your **MySQL database** is hosted on a reliable provider like:
-
-- **PlanetScale**
-- **Neon** (with MySQL support)
-- **ClearDB (Heroku Add-on)**
-- **Self-hosted MySQL** (on your cloud server or managed DB services like AWS RDS)
-
+You can deploy the frontend on **Netlify** or **Vercel**, and the backend on **Render**, **Railway**, or **MongoDB Atlas + Node hosting**.
 
 ---
+
 
 
