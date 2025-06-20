@@ -1,7 +1,6 @@
 # 📝 BlogNest
 
-**BlogNest** is a modern and responsive blogging platform built with the MERN stack (MongoDB, Express, React, Node.js). It allows users to create, read, like, and comment on blog posts with a smooth and user-friendly interface.
-
+**BlogNest** is a modern and responsive blogging platform where users can create, read, like, and comment on blogs. It offers category-based browsing, a clean user interface, and mobile-friendly design. The application features a rich text editor (Jodit), secure JWT-based authentication, and a full admin panel for managing content and users.
 ## 🚀 Features
 
 - ✍️ Create, edit, and delete blogs using a rich text editor (Jodit)
